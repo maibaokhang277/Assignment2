@@ -1,0 +1,9 @@
+E:\CNPM\Assignment2\SE_Assignment2\BLL\bin\Debug\BLL.dll
+E:\CNPM\Assignment2\SE_Assignment2\BLL\bin\Debug\BLL.pdb
+E:\CNPM\Assignment2\SE_Assignment2\BLL\bin\Debug\DAL.dll
+E:\CNPM\Assignment2\SE_Assignment2\BLL\bin\Debug\DAL.pdb
+E:\CNPM\Assignment2\SE_Assignment2\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\CNPM\Assignment2\SE_Assignment2\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\CNPM\Assignment2\SE_Assignment2\BLL\obj\Debug\BLL.csproj.Up2Date
+E:\CNPM\Assignment2\SE_Assignment2\BLL\obj\Debug\BLL.dll
+E:\CNPM\Assignment2\SE_Assignment2\BLL\obj\Debug\BLL.pdb

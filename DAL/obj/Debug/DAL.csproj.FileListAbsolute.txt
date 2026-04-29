@@ -1,0 +1,6 @@
+E:\CNPM\Assignment2\SE_Assignment2\DAL\bin\Debug\DAL.dll
+E:\CNPM\Assignment2\SE_Assignment2\DAL\bin\Debug\DAL.pdb
+E:\CNPM\Assignment2\SE_Assignment2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\CNPM\Assignment2\SE_Assignment2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\CNPM\Assignment2\SE_Assignment2\DAL\obj\Debug\DAL.dll
+E:\CNPM\Assignment2\SE_Assignment2\DAL\obj\Debug\DAL.pdb
